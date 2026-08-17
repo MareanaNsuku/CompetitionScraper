@@ -1,0 +1,5 @@
+ddgs
+playwright
+openpyxl
+requests
+beautifulsoup4
